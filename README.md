@@ -1,3 +1,12 @@
+# Stranger Thingers Quotes with a "refresh quotes" button. I decided to go for something similar to the Lucifer Quotes I had done previously.
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
