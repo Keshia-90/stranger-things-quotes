@@ -1,4 +1,4 @@
-# Stranger Thingers Quotes with a "refresh quotes" button. I decided to go for something similar to the Lucifer Quotes I had done previously.
+# Stranger Things Quotes with a "refresh quotes" button. I decided to go for something similar to the Lucifer Quotes I had done previously.
 
 
 
